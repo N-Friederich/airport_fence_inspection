@@ -13,6 +13,8 @@
 
 # <div align="center"> Fence Inspection at Airports Using Object Detection </div> </br> <div align="center"> WACV Paper 2024 </div>
 
+## <b> Important: We are currently unable to upload our data to the cloud. We are working on the problem and hope to publish the data as soon as possible. Srry! </b> 
+
 This repository contains the data for the paper "Fence Inspection at Airports Using Object Detection" from the "Winter Conference of Applied Computer Vision 2024" (WACV '24).
 
 1. Training weights of the best networks:
