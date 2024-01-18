@@ -27,7 +27,7 @@ This repository contains the data for the paper "Fence Inspection at Airports Us
 If you find this repository or the linked models helpful, please consider citing:
 ```bibtex
 @InProceedings{Friederich_2024_WACV,
-    author    = {Friederich, Nils and Specker, Andreas},
+    author    = {Friederich, Nils and Specker, Andreas and Beyerer, Jürgen},
     title     = {Security Fence Inspection at Airports Using Object Detection},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
     month     = {January},
