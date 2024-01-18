@@ -13,12 +13,12 @@
 
 # <div align="center"> Fence Inspection at Airports Using Object Detection </div> </br> <div align="center"> WACV Paper 2024 </div>
 
-## <b> Important: We are currently unable to upload our data to the cloud. We are working on the problem and hope to publish the data as soon as possible. Srry! </b> 
-
 This repository contains the data for the paper "Fence Inspection at Airports Using Object Detection" from the "Winter Conference of Applied Computer Vision 2024" (WACV '24).
 
-1. Training weights of the best networks:
-   - Coming soon :)
+1. Training weights & metadata of the best models:
+   - YOLOv5 from section 4.5 with automated hyperparameter tuning: [Zenodo](https://zenodo.org/records/10431213)
+   - YOLOv5 from section 4.8 with a higher image resolution of 624×960 (vs. 512×768 before): [Zenodo](https://zenodo.org/records/10459934)
 
-2. Custom MMDetection Configuration for <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Feng_TOOD_Task-Aligned_One-Stage_Object_Detection_ICCV_2021_paper.pdf">TOOD</a>  and <a href="https://arxiv.org/pdf/2008.13367.pdf">VFNet</a>:
-   - Coming soon :)
+2. Training weights & metadata of the best MMDetection models <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Feng_TOOD_Task-Aligned_One-Stage_Object_Detection_ICCV_2021_paper.pdf">TOOD</a>  and <a href="https://arxiv.org/pdf/2008.13367.pdf">VFNet</a>:
+   - TOOD from section 4.6 with a ConvNeXt-T backbone: [Zenodo](https://zenodo.org/records/10459965)
+   - VFNet from section 4.6 with a Res2Net backbone: [Zenodo](https://zenodo.org/records/10469934)
